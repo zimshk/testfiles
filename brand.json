@@ -1,5 +1,5 @@
  {
-    "brandId": "net.persgroep.brand.ad",
+    "brandId": "net.persgroep.brand.json",
             "caption": "Kies je regio",
         "key": "REGIO",
     "displayProperties": [       {
